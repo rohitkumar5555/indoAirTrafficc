@@ -1,0 +1,6 @@
+{
+  "name": "IndoAirTraffic",
+  "description": "Autonomous 4D drone airspace traffic management platform with dynamic collision-free corridor routing, wind-aware battery drain optimization, and emergency landing protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
